@@ -42,5 +42,5 @@ This project analyzes sales data from a Superstore to identify key business insi
 ## Documentation and Presentation
 - A detailed [report](https://github.com/Rina-Irene-arch/Assignment_for_applying_Data_Analyst_Position/blob/main/Interview_Assignment_for_Data_Analyst_Role.pdf) of my findings and business recommendations
 - An interactive dashboard created using BI tools, showcasing the requested visualizations: [Superstore_Data_Analysis_Assignment](https://public.tableau.com/views/Superstore_Data_Analysis_Assignment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- The updated [Excel spreadsheet]([https://github.com/Rina-Irene-arch/Assignment_for_applying_Data_Analyst_Position/blob/main/SQLQuery1.sql](https://github.com/Rina-Irene-arch/Assignment_for_applying_Data_Analyst_Position/blob/main/global_superstore_1.xlsx)) with the additional calculations
+- The updated [Excel spreadsheet](https://github.com/Rina-Irene-arch/Assignment_for_applying_Data_Analyst_Position/blob/main/global_superstore_1.xlsx)
 - [SQL queries](https://github.com/Rina-Irene-arch/Assignment_for_applying_Data_Analyst_Position/blob/main/SQLQuery1.sql) used for the regional and category analysis
